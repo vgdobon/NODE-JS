@@ -9,3 +9,7 @@ console.log(q.host);
 console.log(q.query);
 console.log(q.search);
 console.log(q.port);
+
+var consulta = q.query;
+
+console.log(consulta.year + "/" + consulta.month)
