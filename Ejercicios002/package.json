@@ -1,0 +1,11 @@
+{
+  "name": "ejercicios002",
+  "version": "1.0.0",
+  "description": "Ejercicio 002",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Garcia",
+  "license": "MIT"
+}
