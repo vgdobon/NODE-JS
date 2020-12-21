@@ -1,0 +1,17 @@
+{
+  "name": "mongo2",
+  "version": "1.0.0",
+  "description": "App camisetas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "camiseta",
+    "camisetas",
+    "mongo",
+    "express"
+  ],
+  "author": "Víctor García",
+  "license": "ISC"
+}

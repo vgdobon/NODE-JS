@@ -1,0 +1,24 @@
+{
+  "name": "express03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-generator": "^4.16.1",
+    "debug": "~2.6.9",
+    "hbs": "~4.0.4",
+    "morgan": "~1.9.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "generator"
+  ],
+  "author": "Victor",
+  "license": "ISC"
+}
