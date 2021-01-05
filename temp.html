@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        var word = prompt("Dime una palabra").split("");
+        var contador = 0;
+        for (let i = 0; i <= word.length; i++) {
+            if (word[i] == "a" ||word[i]== "A") {
+             contador++;
+            }
+        }
+        document.write("La palabra tiene " + contador + " veces la letra a");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
